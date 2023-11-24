@@ -43,3 +43,7 @@ php artisan tinker
 ```bash
 Person::factory()->count(20)->create()
 ```
+
+- Acesse "<http://localhost:4200>" no navegador para acessar o CRUD
+
+- Acesse "<http://localhost/check-colchetes>" para acessar o Validador de Ordem de colchetes
