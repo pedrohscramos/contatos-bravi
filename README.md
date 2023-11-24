@@ -8,12 +8,10 @@
 npm install 
 ```
 
-- Renomear o arquivo .env-example para .env
-
 - Inicie o projeto
 
 ```bash
-npm run dev
+ng serve
 ```
 
 ## Inicialização - Backend
